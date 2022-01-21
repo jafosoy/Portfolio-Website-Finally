@@ -1,0 +1,31 @@
+body {
+    background-color: #5550F2;
+    font-family: 'Monsterrat', sans-serif;
+    color: #D2D8D9;
+}
+
+
+.content {
+    text-align: center;
+    position: relative;
+    right: auto;
+    margin: 15% auto;
+}
+
+.tool {
+    color: #CB91F2;
+}
+
+#msg {
+    margin: 3% auto 0;
+    font-weight: bold;
+}
+
+.rotate {
+    transition: transform 0.5s ease-in;
+}
+
+.indiv-icon {
+    padding: 0 7px;
+    color: #a9adf0;
+}

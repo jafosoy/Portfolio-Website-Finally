@@ -1,0 +1,41 @@
+body {
+    background-color: #D2D8D9;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+
+/* Container */
+.container-fluid {
+    margin: 0%;
+}
+
+/* Navigation Bar */
+#intro .navbar {
+    font-weight: lighter;
+    font-size: large;
+    padding: 2% 5%;
+    background-color: #1F2426;
+
+    
+}
+
+/* Intro */
+.profile-div {
+    text-align: center;
+}
+
+.about-me {
+    text-align: center;
+    background-color: #1F2426;
+}
+
+#profile-img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+#intro-container {
+    padding: 0%;
+    margin: 0%;
+}
+
